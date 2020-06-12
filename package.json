@@ -14,7 +14,7 @@
     "classnames": "2.2.5",
     "node-sass": "4.9.0",
     "react": "16.4.0",
-    "react-dom": "16.4.0"
+    "react-dom": "16.13.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
