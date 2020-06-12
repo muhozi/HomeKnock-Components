@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="45.254" viewBox="0 0 34 45.254">
+    <defs>
+        <filter id="prefix__keyboard_arrow_left-24px" width="34" height="45.254" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g filter="url(#prefix__keyboard_arrow_left-24px)">
+        <path id="prefix__keyboard_arrow_left-24px-2" fill="#fbfcff" d="M15.289 23.078l-9.427-9.463 9.427-9.463A2.427 2.427 0 0 0 11.863.713L.711 11.908a2.435 2.435 0 0 0 0 3.439l11.152 11.194a2.413 2.413 0 0 0 3.426 0 2.488 2.488 0 0 0 0-3.463z" data-name="keyboard_arrow_left-24px" transform="rotate(180 12.5 16.625)"/>
+    </g>
+</svg>
